@@ -15,16 +15,17 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <script src="js/bootstrap-clockpicker.js"></script>
     <link rel="stylesheet" href="css/bootstrap-clockpicker.css">
+    <link rel="stylesheet" href="css/style.css">
     <script src="js/functions.js"></script>
     <title>Calendar</title>
 </head>
 <body>
 
 
-    <div class="container col-sm-12">
+    <div class="container table-responsive">
         <div class="row">
             <div class="col"></div>
-            <div class="col-7"><div id="Calendario"></div>
+            <div class="col-sm-9 "><div id="Calendario"></div>
             </div>
             <div class="col"></div>
         </div>
